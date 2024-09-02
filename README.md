@@ -14,9 +14,9 @@ create table truck(
         driver_name varchar(20)
 );
 
-Don't forget to clone the pom.xml file as it contains information of project and configuration information for the maven to build the project.
-Maven reads the pom. xml file, then executes the goal.
-Then clone this repository.
+1.Don't forget to clone the pom.xml file as it contains information of project and configuration information for the maven to build the project.
+Maven reads the pom. xml file, then executes the goal.<br>
+2.Then clone this repository.
 
 ### All set 👍
 
