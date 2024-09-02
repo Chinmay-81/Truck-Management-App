@@ -6,12 +6,12 @@ This app helps to store and manage data of trucks
 
 create database truckmgt;<br>
 use truckmgt;<br>
-create table truck(<br>
-	id int primary key auto_increment,<br>
-        name varchar(40),<br>
-        model varchar(40),<br>   
-        capacity int,<br>
-        driver_name varchar(20)<br>
+create table truck(
+	id int primary key auto_increment,
+        name varchar(40),
+        model varchar(40),   
+        capacity int,
+        driver_name varchar(20)
 );
 
 Don't forget to clone the pom.xml file as it contains information of project and configuration information for the maven to build the project.
