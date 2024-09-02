@@ -9,7 +9,7 @@ use truckmgt;<br>
 create table truck(<br>
 	id int primary key auto_increment,<br>
         name varchar(40),<br>
-        model varchar(40), <br>   
+        model varchar(40),<br>   
         capacity int,<br>
         driver_name varchar(20)<br>
 );
